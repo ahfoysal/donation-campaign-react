@@ -1,0 +1,160 @@
+[
+  {
+    "id": "8",
+    "name": "Meals for Homebound Seniors",
+    "category": "food",
+    "image": "Food",
+    "description": "Deliver nutritious meals to homebound seniors who need assistance.",
+    "donationAmount": 320,
+    "colors": {
+      "bg": "blue-30",
+      "color": "blue-50",
+      "categoryBg": "blue-40"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Medical Supplies for Rural Clinics",
+    "category": "health",
+    "image": "Health",
+    "description": "Deliver essential medical supplies to clinics in remote areas.",
+    "donationAmount": 300,
+    "colors": {
+      "bg": "orange-30",
+      "color": "orange-50",
+      "categoryBg": "orange-40"
+    }
+  },
+
+  {
+    "id": "12",
+    "name": "Emergency Food Relief",
+    "category": "food",
+    "image": "Food",
+    "description": "Offer emergency food relief to individuals and families in crisis situations.",
+    "donationAmount": 400,
+    "colors": {
+      "bg": "blue-30",
+      "color": "blue-50",
+      "categoryBg": "blue-40"
+    }
+  },
+
+  {
+    "id": "6",
+    "name": "Scholarships for Underprivileged Students",
+    "category": "education",
+    "image": "Education",
+    "description": "Empower underprivileged students through educational scholarships.",
+    "donationAmount": 280,
+    "colors": {
+      "bg": "red-30",
+      "color": "red-50",
+      "categoryBg": "red-40"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Good Education",
+    "category": "education",
+    "image": "Education",
+    "description": "Support quality education initiatives for children worldwide.",
+    "donationAmount": 350,
+    "colors": {
+      "bg": "red-30",
+      "color": "red-50",
+      "categoryBg": "red-40"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Clothing Vouchers for Families",
+    "category": "clothing",
+    "image": "Clothing",
+    "description": "Provide clothing vouchers to low-income families to purchase essential clothing.",
+    "donationAmount": 150,
+    "colors": {
+      "bg": "green-30",
+      "color": "green-50",
+      "categoryBg": "green-40"
+    }
+  },
+  {
+    "id": "1",
+    "name": "Clean Water for Children",
+    "category": "health",
+    "image": "Health",
+    "description": "Provide clean and safe drinking water for children in need.",
+    "donationAmount": 290,
+    "colors": {
+      "bg": "orange-30",
+      "color": "orange-50",
+      "categoryBg": "orange-40"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Better Food for Everyone",
+    "category": "food",
+    "image": "Food",
+    "description": "Provide nutritious meals to individuals and families facing hunger.",
+    "donationAmount": 420,
+    "colors": {
+      "bg": "blue-30",
+      "color": "blue-50",
+      "categoryBg": "blue-40"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Used Clothing Drive",
+    "category": "clothing",
+    "image": "Clothing",
+    "description": "Collect and distribute used clothing to those in need.",
+    "donationAmount": 180,
+    "colors": {
+      "bg": "green-30",
+      "color": "green-50",
+      "categoryBg": "green-40"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Mobile Health Clinics",
+    "category": "health",
+    "image": "Health",
+    "description": "Bring healthcare services to underserved communities with mobile clinics.",
+    "donationAmount": 270,
+    "colors": {
+      "bg": "orange-30",
+      "color": "orange-50",
+      "categoryBg": "orange-40"
+    }
+  },
+  {
+    "id": "10",
+    "name": "STEM Education Programs",
+    "category": "education",
+    "image": "Education",
+    "description": "Support STEM education programs for young aspiring scientists and engineers.",
+    "donationAmount": 380,
+    "colors": {
+      "bg": "red-30",
+      "color": "red-50",
+      "categoryBg": "red-40"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Warm Winter Coats for the Homeless",
+    "category": "clothing",
+    "image": "Clothing",
+    "description": "Provide warm winter coats to homeless individuals during cold months.",
+    "donationAmount": 200,
+    "colors": {
+      "bg": "green-30",
+      "color": "green-50",
+      "categoryBg": "green-40"
+    }
+  }
+]
